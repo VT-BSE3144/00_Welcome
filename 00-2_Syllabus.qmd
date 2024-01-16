@@ -1,0 +1,307 @@
+# BSE 3144: Engineering Analysis for Biological Systems using Numerical Methods - Spring 2023
+
+
+### Course Logistics
+
+**Course Meetings: 	**MW 11:15–12:05 Derring Hall 1014
+
+
+        				
+
+**Modality: In-person, with potential for occasional Zoom meetings. **All materials will be delivered in a synchronous format in the classroom and will be recorded via Zoom. Materials will be made available online as soon as possible after delivery. There will be group/team activities in every lecture/lab, so you are encouraged to attend in-person synchronous sessions if possible to gain the most from the course, but if you suspect you are sick, please stay home and join via zoom, or catch up later. 
+
+**Public Health: If you are sick please mask in class or do not attend class and isolate yourself. I will gladly make all materials/assignments available to you. **Public Health is a team sport. Let’s do our collective best to keep everyone safe and healthy. Who wants to get sick and miss a week of class and potentially have to make up assignments during a busy semester? 
+
+Materials and in-class assignments will be available for review and completion in an asynchronous (outside-class) manner. We will do our best to extend generosity in an equitable way. We hope you will do the same. If you or your close contacts have tested positive for Covid-19 or influenza please do not hesitate to stay home and reach out to us for materials. I hope if we as a society have learned anything from this pandemic, it is that a little compassion can go a long way. 
+
+**Course Website Link: [https://canvas.vt.edu/courses/184696](https://canvas.vt.edu/courses/184696) **
+
+**[Course Schedule Link](https://docs.google.com/spreadsheets/u/0/d/1SrTipmDhY4nloYDEanIAsKIIiOC3FSJXAuL-PaG921g/edit) **
+
+**Online Lecture Meeting Link: **
+
+**[https://virginiatech.zoom.us/j/86324275588?pwd=V1l2QUIvSzZ3UVRPSzRxMk9PYlhJdz09](https://virginiatech.zoom.us/j/86324275588?pwd=V1l2QUIvSzZ3UVRPSzRxMk9PYlhJdz09) **
+
+_Recording: _Lectures and presented material in-class will be recorded for anyone who cannot attend synchronous sessions. If you do not want to be recorded, please turn off your video and mute your audio. 
+
+_Breakout groups: _Breakout groups will not be recorded. Upon entering a breakout group please turn on your video and audio if possible and set your view “Gallery View” to facilitate group discussions. 
+
+ 
+
+
+<table>
+  <tr>
+   <td><strong>Instructor:</strong>	
+   </td>
+   <td>Dr. Clay Wright 
+<p>
+(he/him/they/them)
+   </td>
+   <td>Zahra Nourali (TA)
+<p>
+(she/her)
+   </td>
+  </tr>
+  <tr>
+   <td>Office:	
+   </td>
+   <td>HABB1 301E
+   </td>
+   <td>Office hours in Seitz 305
+   </td>
+  </tr>
+  <tr>
+   <td>Phone:	
+   </td>
+   <td>(540) 231-4546
+   </td>
+   <td>(540) 267-1470
+   </td>
+  </tr>
+  <tr>
+   <td>E-mail:	
+   </td>
+   <td>wrightrc@vt.edu
+   </td>
+   <td>znourali@vt.edu
+   </td>
+  </tr>
+  <tr>
+   <td>Advising/Tutoring Hours:
+   </td>
+   <td>Th 1:30-2:30PM (might change based on poll)
+   </td>
+   <td>TBD
+   </td>
+  </tr>
+  <tr>
+   <td>Office/Advising/Tutoring Hours Link:
+   </td>
+   <td><a href="https://virginiatech.zoom.us/j/85224869663?pwd=Sy9SRHZzWE5ONjBUL3U0WXR6SDFKUT09">https://virginiatech.zoom.us/j/85224869663?pwd=Sy9SRHZzWE5ONjBUL3U0WXR6SDFKUT09</a> 
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+_Email** **to schedule appointments outside these times. <span style="text-decoration:underline;">Please suggest times when you are available and reference your conflict with regular office hours in the request</span>._
+
+**Email/Communication Protocol: **Before emailing,** please consider whether your question would be more appropriate as a post on Canvas **(even a private post to instructors). We will strive to respond to all inquiries within 24 hours and would request you strive for the same. A courteous and professional tone (on your part and ours) greatly increases the likelihood of a positive result.
+
+**Course Description: **
+
+This course focuses on the process of solving engineering problems related to biological systems using numerical analysis including root finding, numerical integration, differentiation, interpolation and numerical solution of ordinary differential equations, error analysis and programming with engineering software.
+
+The course will cover topics of numerical analysis including: root finding, numerical integration, differentiation, interpolation and numerical solution to ordinary differential equations to biological systems engineering related problems. 
+
+R is the programming language we will use in this course. We will spend the first portion of this course devoted to learning the basics of structured and modular programming. Although we focus on R, the described techniques are not only applicable with other computer languages. Furthermore, the techniques provide a logical approach to addressing complex problems, breaking them down into manageable (and solvable) pieces.
+
+The numerical computation techniques included in this course are utilized by many engineers. For biological systems engineers, the applications of the techniques include consideration of characteristics of biological systems, such as natural variability, growth/decay cycles, nonhomogeneity, anisotropy, and process uncertainty.
+
+**Course Prerequisites: **
+
+BSE 2004 Introduction to Biological Systems introduces students to a variety of biological systems and to engineering problems related to those systems. MATH 2214 Introduction to Differential Equations familiarizes students with ordinary differential equations, first-order equations, second- and higher-order linear equations, and systems of first-order linear equations.
+
+**Required Text: **All course materials will be available via Canvas, Google Drive, Kritik, and Posit (R) Cloud. 
+
+**Recommended (and free):** R for Data Science, [https://r4ds.had.co.nz](https://r4ds.had.co.nz) 
+
+**Required Software: **Microsoft Office package (Word, Excel, Powerpoint) or Google/OpenOffice equivalents, Firefox or Chrome browser, Posit.cloud account, and Kritik.io account.
+
+**Learning Objectives: **
+
+Upon successful completion of this course, the student will be able to:
+
+
+
+* Apply the following numerical techniques to solve problems in biological systems engineering:
+    * root finding
+    * solving systems of linear equations
+    * interpolation
+    * differentiation and integration
+    * solving ordinary differential equations
+* Define and quantify sources of error in numerical techniques
+* Write programs, using engineering software, that involve loops, logical block constructs, function, plotting, and input/output
+
+**Grading and Evaluation: **
+
+
+<table>
+  <tr>
+   <td><strong>Assignments </strong>
+   </td>
+   <td><strong>Weight</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Concept Checks
+   </td>
+   <td>15%
+   </td>
+  </tr>
+  <tr>
+   <td>Problem Sets
+   </td>
+   <td>55%
+   </td>
+  </tr>
+  <tr>
+   <td>Project-based Assessments 
+   </td>
+   <td>30%
+   </td>
+  </tr>
+</table>
+
+
+**_Letter grades will be assigned based on the standard VT +/- scale without any additional rounding. The Canvas Gradebook page will reflect your grade. _**
+
+
+### Assignments
+
+**_Submitting Assignments_**
+
+All assignments can only be submitted via Canvas (https://canvas.vt.edu). Assignments will not be accepted via email. All submissions must be a single scanned PDF file of the solution (not scanned pages sent as multiple .jpeg files, for example) and files from any analytical tools you used (Excel, Matlab, R). 
+
+**_Late and Excused Assignments_**
+
+Late assignments will be docked 0.5% after grading per hour late. Late assignments can be submitted any time prior to the assignment being graded and returned to other students. Excuses that include, for instance, “computer or software problems related to Canvas or internet service” will not be accepted. If you anticipate submission problems, please allow yourself enough time to submit. 
+
+Missed assignments will be excused with written permission from the Academic Affairs Office of the College of Engineering. If an assignment is missed and properly excused, the student will have a week upon return to complete the assignment for full credit.
+
+**_Concept Checks_**
+
+Concept checks are meant to incentivize your reviewing of pre-class materials. These are primarily in the form of canvas quizzes, with unlimited tries, on readings and pre-class materials 
+
+**_Problem Sets _**
+
+Problem Sets in this class are both in-class and at-home work. Problem Sets help build your understanding of engineering concepts and develop your problem solving, analysis, and design skills through practice. Problem Sets reflect the course lectures, in that you will develop code based on what we cover in class that week to solve numerical problems. Problem Sets are generally a few problems and are assigned on a weekly basis. The Problem Sets are generally due at midnight (12:00am) on Thursday. The total point value of a Problem Set is commensurate with the length and difficulty of the problems per the instructor’s discretion. **Your lowest percentage Problem Set of the semester will not be included in your grade. **Problem Sets are graded based on correctness with ample partial credit to give you feedback on your problem solving approach. You are encouraged to work in teams and consult with classmates regarding problems. However, each student must submit his or her own Problem Sets. Any Problem Set submitted with two or more names will not be graded. Even though teamwork is encouraged, all submitted Problem Sets must be your own work. In other words, **no two Problem Sets should be identical**. 
+
+**To ensure maximum credit and also maximum likelihood of arriving at the correct answer, make sure that your solution **
+
+
+
+1. **is written clearly and in a tidy format, **
+2. **begins with a summary of all the information in the question, **
+3. **contains comments about your solution strategy and the goal of each section of calculations, and **
+4. **has final answers, with proper units, boxed or otherwise clearly highlighted. **
+
+**_Project-based Assessments_**
+
+This semester there will be 2 summative project-based assessments. These are meant to reinforce what you learn while also assessing your abilities to implement what you learn in a new context of your choosing. The first summative assessment will occur around Spring Break. The second assessment will be due at the final exam time (but there is no exam). Both of these assessments will be assigned on the first day of class (although I might make some small changes to the rubric, until 2 weeks before it is due). We will have about 1 week of class time to work on each of these assessments, but you are also expected to spend some hours outside class working on them. I am happy to answer any questions about your projects and hope that this type of assessment reduces anxiety and distraction, while more accurately representing on-the-job work. I cannot and do not adjust the timing of these assignments for SSD exam accommodations as you are given many weeks to complete them, and there will be several assignments to help you develop your plan for completing these assignments. While you are encouraged to converse with your neighbors about your analysis to help solidify and practice communicating your analysis, and you can possibly even work on the same dataset, **these are individual assignments. Everyone must submit a unique assignment. **
+
+
+### Community Guidelines and Expectations
+
+
+
+* **Share responsibility for including all voices in the conversation.** If you tend to have a lot to say, make sure you leave sufficient space and invite and validate contributions from others. If you tend to stay quiet in group discussions, challenge yourself to contribute so others can learn from you. Team assignments should be products of the entire team
+* **Listen respectfully.** Don’t interrupt, turn to technology, or engage in private conversations while others are speaking. Use attentive, courteous body language. Comments that you make (whether asking for clarification, sharing critiques, or expanding on a point) should reflect that you have paid attention to the previous speakers’ comments.
+* **Be open to changing your perspectives based on what you learn from others.** Try to explore new ideas and possibilities. Think critically about the factors that have shaped your perspectives. Seriously consider points-of-view that differ from your current thinking.
+* **Understand that we are bound to make mistakes** in this space, as anyone does when approaching complex tasks or learning new skills. Strive to see your mistakes and others’ as valuable elements of the learning process. 
+* **Understand that your words have effects on others. Speak with care. **If you learn that something you’ve said was experienced as disrespectful or marginalizing, listen carefully and try to understand that perspective. Learn how you can do better in the future. 
+* **Take pair work, small group work, and class discussions seriously. <span style="text-decoration:underline;">Remember that your peers’ learning is partly dependent upon your engagement.</span>**
+* **Be careful about assumptions and generalizations you make based only on your own experience. **Understand that others will come to these discussions with different experiences from yours. Be open to hearing and learning from other perspectives.
+* **Make an effort to get to know other students.** Introduce yourself to students sitting near you. Refer to classmates by name and make eye contact with other students.
+* Understand that there are different approaches to solving problems. **If you are uncertain about someone else’s approach, ask a question to explore areas of uncertainty.** Listen respectfully to how and why the approach could work. Disagreements often propel science and engineering as working to resolve disagreements through calm and clear communication helps expand our collective understanding.
+
+**If someone violates these guidelines, please let them know that “I believe you are violating the community guidelines” so that they can learn from their mistakes, and also alert an instructor of this incident if appropriate.** 
+
+**_Virginia Tech’s Principles of Community:_ **
+
+Virginia Tech is a public land-grant university, committed to teaching and learning, research, and outreach to the Commonwealth of Virginia, the nation, and the world community. Learning from the experiences that shape Virginia Tech as an institution, we acknowledge those aspects of our legacy that reflected bias and exclusion. Therefore, we adopt and practice the following principles as fundamental to our on-going efforts to increase access and inclusion and to create a community that nurtures learning and growth for all of its members:
+
+
+
+* We affirm the inherent dignity and value of every person and strive to maintain a climate for work and learning based on mutual respect and understanding.
+* We affirm the right of each person to express thoughts and opinions freely. We encourage open expression within a climate of civility, sensitivity, and mutual respect.
+* We affirm the value of human diversity because it enriches our lives and the University. We acknowledge and respect our differences while affirming our common humanity. 
+* We reject all forms of prejudice and discrimination, including those based on age, color, disability, gender, national origin, political affiliation, race, religion, sexual orientation, and veteran status. We take individual and collective responsibility for helping to eliminate bias and discrimination and for increasing our own understanding of these issues through education, training, and interaction with others. 
+* We pledge our collective commitment to these principles in the spirit of the Virginia Tech motto of Ut Prosim (That I May Serve).
+
+
+### Mental Health and Well-being
+
+Supporting the mental health and well-being of students in my class is of high priority to me and Virginia Tech. If you are feeling overwhelmed academically, having trouble functioning, or are worried about a friend, please reach out to any of the following offices: 
+
+
+
+* Cook Counseling: 
+    * 540-231-6557 to schedule an appointment and/or 24/7 crisis support 
+    * ucc.vt.edu for more information 
+* Dean of Students Office: 
+    * 540 231-3787 for general advice 
+    * 540-231-6411 for after-hours crisis 
+    * dos.vt.edu for more information 
+* Hokie Wellness: 
+    * hokiewellness.vt.edu for more information about health and wellness workshops and consultations 
+* Services for Students with Disabilities (SSD) 
+    * 540-231-3788 or ssd.vt.edu for more information about accommodations and other disability-related supports 
+
+For a full listing of campus resources check out well-being.vt.edu . 
+
+Please also feel free to speak with us. We will make an effort to work with you and care about you.
+
+
+### Diversity, Inclusivity, and Accessibility
+
+We are committed to fostering an inclusive learning environment where diversity and individual differences are understood, respected, appreciated and recognized as a source of strength according to the Virginia Tech Principles of Community ([http://www.vt.edu/diversity/principlesofcommunity.html](http://www.vt.edu/diversity/principlesofcommunity.html)).
+
+We strive to best provide equal access and a culture of inclusion without altering the essential elements of coursework. If you anticipate or experience academic barriers that may be due to disability, including but not limited to ADHD, chronic or temporary medical conditions, deaf or hard of hearing, learning disability, mental health, or vision impairment, please contact the Services for Students with Disabilities (SSD) office (150 Henderson Hall, 540-231-3788 (V), 540-231-1740 (TTY), ssd@vt.edu, or visit www.ssd.vt.edu). Reasonable accommodations are available for students who have a disability. Students with disabilities are responsible for self-identification. To be eligible for services, documentation of the disability from a qualified professional must be presented to SSD upon request. Academic adjustments may include, but are not limited to: priority registration, auxiliary aids, program and course adjustment, exam modifications, oral or sign language interpreters, cassette taping of text/materials, notetakers/readers, or assistive technology.
+
+**If you have an SSD accommodation letter or anticipate having one, please let an instructor know as soon as possible.** Email an instructor or meet privately during office hours or by appointment, ideally in the first week of the semester to deliver your letter and discuss your accommodations. You must give us reasonable notice to implement your accommodations, which is generally 5 business days and 10 business days for exams.
+
+We will gladly honor your request to address you by an alternate name or gender pronoun than listed on the class roster. Please advise us in person or by email of this preference early in the term so that we can make appropriate changes to records and address you respectfully during class.
+
+**Your success in this course is of great importance to us. If you have any additional concerns about your performance in this class, please make an appointment to discuss this in person.**
+
+
+### Honor Code 
+
+The Honor Code will be strictly enforced in this course. All assignments submitted shall be considered graded work, unless otherwise noted. All aspects of your coursework are covered by the Honor System. A student who has doubts about how the Honor Code applies to any assignment is responsible for obtaining specific guidance from the course instructor before submitting the assignment for evaluation. Ignorance of the rules does not exclude any member of the University community from the requirements and expectations of the Honor Code. The following is the Honor Code written verbatim from the VT Honor System Constitution:
+
+_“As a Hokie, I will conduct myself with honor and integrity at all times. I will not lie, cheat, or steal, nor will I accept the actions of those who do.” _
+
+ 
+
+Commission of any of the following acts shall constitute academic misconduct. This listing is not, however, exclusive of other acts that may reasonably be said to constitute academic misconduct. Clarification is provided for each definition with some examples of prohibited behaviors in the Undergraduate Honor Code Manual located at: [https://www.honorsystem.vt.edu/](https://www.honorsystem.vt.edu/) 
+
+ 
+
+
+
+1. 
+CHEATING Cheating includes the intentional use of unauthorized materials, information, notes, study aids or other devices or materials in any academic exercise, or attempts thereof. 
+
+
+2. 
+PLAGIARISM Plagiarism includes the copying of the language, structure, programming, computer code, ideas, and/or thoughts of another and passing off the same as one's own original work, or attempts thereof. 
+
+
+3. 
+FALSIFICATION Falsification includes the statement of any untruth, either verbally or in writing, with respect to any element of one's academic work, or attempts thereof.
+
+
+4. 
+FABRICATION Fabrication includes making up data and results, and recording or reporting them, or submitting fabricated documents, or attempts thereof. 
+
+
+5. 
+MULTIPLE SUBMISSION Multiple submission involves the submission for credit—without authorization of the instructor receiving the work—of substantial portions of any work (including oral reports) previously submitted for credit at any academic institution, or attempts thereof. 
+
+
+6. 
+COMPLICITY Complicity includes intentionally helping another to engage in an act of academic misconduct, or attempts thereof. 
+G. 	VIOLATION OF UNIVERSITY, COLLEGE, DEPARTMENTAL, PROGRAM, COURSE, OR FACULTY RULES The violation of any University, College, Departmental, Program, Course, or Faculty Rules relating to academic matters that may lead to an unfair academic advantage by the student violating the rule(s).
+
+**_Key points for this course are:_**
+
+
+
+* While group work on assignments is encouraged to facilitate cooperative learning, each student is expected to complete each assignment him/herself and to turn in his/her own individual work. _<span style="text-decoration:underline;">Copying of another student’s work (currently or previously enrolled students) is not allowed.</span>_ 
+* <span style="text-decoration:underline;">Copying (either direct cut and paste or slight rewording) of written material, such as from the internet or another student’s work, is strictly forbidden.</span> 
+* Review TurnItIn reports before submitting your work. <span style="text-decoration:underline;">If written work is flagged by TurnItIn as being greater than 30% similar to publicly available writing within the main body of the text, your work will be returned ungraded.</span> 
+* All exams should be solely and completely the work of the individual student. 
+
+**_<span style="text-decoration:underline;">Violations of the Honor Code will be turned over to the Honor Court.</span>_** At a minimum, a grade of “double-F” for the assignment will be requested. Additional sanctions, including community service, “academic integrity sanctions” listings on official transcripts, or dismissal may be recommended given the seriousness of the infraction.
