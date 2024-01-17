@@ -1,0 +1,113 @@
+---
+title: "BSE3144 - Course motivation"
+author: "Clay Wright"
+format: pptx
+---
+
+# Why this class?
+
+## Data informs decisions
+
+-   Data collection is rapidly increasing everywhere
+-   Numerical methods & programming provides the skill to leverage data!
+-   Models, forecasts, management
+-   Personalized medicine
+-   Machine learning & automation
+
+## Outline
+
+- Community
+- Learning
+- Expectations
+
+# Community
+
+## The community is one of R’s best features
+
+Just take a look at the many open-source textbooks that are out there or the millions of excellent answers to questions on Stack Overflow
+
+A thriving community offers developers, expertise, collaborators, writers and documentation, testers, agitators (to keep the community and software on track!), **learners willing to make mistakes and ask tons of questions**, and so much more.
+
+## Pair Programming:
+
+This course intersperses lectures with exercises, which I highly suggest you work on in pairs.
+
+Everyone has unique skill sets, this gives everyone a chance to learn from everyone else. 
+
+## Roles in pair programming
+
+One partner does the typing (*the driver*) 
+
+The other partner (*the navigator*) is suggesting, error-correcting, and strategizing. 
+
+## Roles in pair programming
+![](https://miro.medium.com/v2/resize:fit:768/format:webp/1*KhthCBxD9DhKNkXxSYl9Pw.jpeg)
+
+The pair both works and learns more effectively.
+(This has been studied in many classrooms and has also been involved in the success of many major tech companies).
+
+## Goals of pair programming
+
+- Practice hands-on programming.
+- Practice reading, understanding, and debugging other’s code. 
+- Try things and don't be afraid to make errors.
+- Everyone makes errors, writing a successful script is about learning from those errors.
+- Learning is a journey, having a buddy makes it more fun. 
+
+
+# Learning
+
+
+## What can we do to improve learning?
+
+Collectively in groups of 3-4: 
+
+- Personal actions: What can you do to be successful?
+- Teaching actions: What can I do to help you be successful? 
+
+Report back to large group: top personal actions, top teaching action
+
+## Math and computer anxiety is very common 
+
+::: {.incremental}
+
+How can we manage it?
+
+- Shift Mindsets: View mistakes as learning tools, celebrate progress.
+- Build Confidence: Break down concepts, master basics, celebrate "aha!" moments.
+- Active Learning: Participate, discuss, use hands-on activities, real-world examples, & technology.
+- Manage Stress: Learn relaxation techniques for when frustration and anxiety creep up. 
+- Seek Support: Utilize tutors, study groups, & academic support services.
+
+:::
+
+## Expectations
+
+::: {.incremental}
+
+- Read: While we are trying to add more videos, a lot of the course material is text. Read it. If you find helpful videos share them. 
+  - Start today with the Welcome and Syllabus.
+- Practice: Work through the concept check and problem set assignments.
+- Ask questions: If you have a question chances are many others do too. Ask and we will all learn together. 
+
+:::
+
+---
+
+## To Do list (1/2)
+
+Before Friday at noon:
+
+- Sign in to Posit (use the Canvas link)
+- Read the Welcome blog post (00-1_Welcome.html) and [Syllabus](https://docs.google.com/document/d/124UUTEYLpv6CpRJTJZuKQeoTkwRWVPHh4T2NATDDMuo/edit) or within Posit version (00-2_Syllabus.html)
+- Complete the Week 0 concept check
+
+## To Do list (2/2)
+
+Before Monday:
+
+- Prepare for week 1
+  - Read [https://posit.cloud/learn/guide](https://posit.cloud/learn/guide)
+  - Watch [this YouTube Video](https://youtu.be/FIrsOBy5k58?feature=shared&t=27)
+  - Check out the [RStudio introduction to Rmarkdown](https://rmarkdown.rstudio.com/lesson-1.html) and [Quarto](https://quarto.org/docs/get-started/hello/rstudio.html) 
+  - Complete week 1 concept check (will be posted sometime Thursday)

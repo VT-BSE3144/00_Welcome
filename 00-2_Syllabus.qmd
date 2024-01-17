@@ -1,16 +1,23 @@
+---
+title: "Welcome to BSE3144"
+author: "Clay Wright"
+format: html
+---
+
 # BSE 3144: Engineering Analysis for Biological Systems using Numerical Methods - Spring 2023
 
 
 ### Course Logistics
 
-**Course Meetings: 	**MW 11:15–12:05 Derring Hall 1014
+**Course Meetings:** MW 11:15–12:05 Derring Hall 1014
 
 
         				
 
-**Modality: In-person, with potential for occasional Zoom meetings. **All materials will be delivered in a synchronous format in the classroom and will be recorded via Zoom. Materials will be made available online as soon as possible after delivery. There will be group/team activities in every lecture/lab, so you are encouraged to attend in-person synchronous sessions if possible to gain the most from the course, but if you suspect you are sick, please stay home and join via zoom, or catch up later. 
+**Modality: In-person, with potential for occasional Zoom meetings.**
+All materials will be delivered in a synchronous format in the classroom and will be recorded via Zoom. Materials will be made available online as soon as possible after delivery. There will be group/team activities in every lecture/lab, so you are encouraged to attend in-person synchronous sessions if possible to gain the most from the course, but if you suspect you are sick, please stay home and join via zoom, or catch up later. 
 
-**Public Health: If you are sick please mask in class or do not attend class and isolate yourself. I will gladly make all materials/assignments available to you. **Public Health is a team sport. Let’s do our collective best to keep everyone safe and healthy. Who wants to get sick and miss a week of class and potentially have to make up assignments during a busy semester? 
+**Public Health: If you are sick please mask in class or do not attend class and isolate yourself. I will gladly make all materials/assignments available to you.** Public Health is a team sport. Let’s do our collective best to keep everyone safe and healthy. Who wants to get sick and miss a week of class and potentially have to make up assignments during a busy semester? 
 
 Materials and in-class assignments will be available for review and completion in an asynchronous (outside-class) manner. We will do our best to extend generosity in an equitable way. We hope you will do the same. If you or your close contacts have tested positive for Covid-19 or influenza please do not hesitate to stay home and reach out to us for materials. I hope if we as a society have learned anything from this pandemic, it is that a little compassion can go a long way. 
 
@@ -85,7 +92,7 @@ _Breakout groups: _Breakout groups will not be recorded. Upon entering a breakou
 </table>
 
 
-_Email** **to schedule appointments outside these times. <span style="text-decoration:underline;">Please suggest times when you are available and reference your conflict with regular office hours in the request</span>._
+_Email to schedule appointments outside these times. Please suggest times when you are available and reference your conflict with regular office hours in the request._
 
 **Email/Communication Protocol: **Before emailing,** please consider whether your question would be more appropriate as a post on Canvas **(even a private post to instructors). We will strive to respond to all inquiries within 24 hours and would request you strive for the same. A courteous and professional tone (on your part and ours) greatly increases the likelihood of a positive result.
 
@@ -112,8 +119,6 @@ BSE 2004 Introduction to Biological Systems introduces students to a variety of 
 **Learning Objectives: **
 
 Upon successful completion of this course, the student will be able to:
-
-
 
 * Apply the following numerical techniques to solve problems in biological systems engineering:
     * root finding

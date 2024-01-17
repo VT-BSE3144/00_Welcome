@@ -1,8 +1,11 @@
 ---
 title: "Welcome to BSE3144"
 author: "Clay Wright"
-output: html
+format: 
+  pdf: default
+  html: default
 ---
+
 
 ## Engineering Analysis for Biological Systems using Numerical Methods
 
