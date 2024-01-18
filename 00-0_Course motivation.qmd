@@ -98,16 +98,16 @@ How can we manage it?
 
 Before Friday at noon:
 
-- Sign in to Posit (use the Canvas link)
-- Read the Welcome blog post (00-1_Welcome.html) and [Syllabus](https://docs.google.com/document/d/124UUTEYLpv6CpRJTJZuKQeoTkwRWVPHh4T2NATDDMuo/edit) or within Posit version (00-2_Syllabus.html)
-- Complete the Week 0 concept check
+- Sign in to [Posit](https://posit.cloud/spaces/466263/join?access_code=t7_EYM675vTBtBWbCJdZy-GzLB4j6tl9CFB6ibq-) (link also on Canvas homepage)
+- Read the [Welcome blog post](https://drive.google.com/open?id=1tpkU2ST0TpEOKm-Q0aRvEuosWY1pjoFW&usp=drive_fs) (or in Posit 00-1_Welcome.html) and [Syllabus](https://docs.google.com/document/d/124UUTEYLpv6CpRJTJZuKQeoTkwRWVPHh4T2NATDDMuo/edit) or within Posit version (00-2_Syllabus.html)
+- Complete the [Week 0 concept check](https://canvas.vt.edu/courses/184696/quizzes/505988)
 
 ## To Do list (2/2)
 
 Before Monday:
 
-- Prepare for week 1
-  - Read [https://posit.cloud/learn/guide](https://posit.cloud/learn/guide)
-  - Watch [this YouTube Video](https://youtu.be/FIrsOBy5k58?feature=shared&t=27)
-  - Check out the [RStudio introduction to Rmarkdown](https://rmarkdown.rstudio.com/lesson-1.html) and [Quarto](https://quarto.org/docs/get-started/hello/rstudio.html) 
-  - Complete week 1 concept check (will be posted sometime Thursday)
+* Prepare for week 1
+    * Read[ https://posit.cloud/learn/guide](https://posit.cloud/learn/guide)
+    * Watch[ this YouTube Video](https://youtu.be/FIrsOBy5k58?feature=shared&t=27)
+    * Check out the[ RStudio introduction to Rmarkdown](https://rmarkdown.rstudio.com/lesson-1.html) and[ Quarto](https://quarto.org/docs/get-started/hello/rstudio.html)
+    * Complete week 1 concept check (will be posted sometime Thursday)
