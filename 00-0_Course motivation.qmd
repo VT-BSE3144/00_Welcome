@@ -85,7 +85,7 @@ How can we manage it?
 
 ::: {.incremental}
 
-- Read: While we are trying to add more videos, a lot of the course material is text. Read it. If you find helpful videos share them. 
+- Read: While we are trying to add more videos, a lot of the course material is text. Read it. If you find helpful videos share them in the teams!. 
   - Start today with the Welcome and Syllabus.
 - Practice: Work through the concept check and problem set assignments.
 - Ask questions: If you have a question chances are many others do too. Ask and we will all learn together. 
@@ -98,7 +98,7 @@ How can we manage it?
 
 Before Friday at noon:
 
-- Sign in to [Posit](https://posit.cloud/spaces/466263/join?access_code=t7_EYM675vTBtBWbCJdZy-GzLB4j6tl9CFB6ibq-) (link also on Canvas homepage)
+- Sign in to [Posit](https://posit.cloud/spaces/600320/join?access_code=xGmfj32WVbKz3zFw7uJDU8jJDp1QsNbP5YDCdDKF) (link also on Canvas homepage)
 - Read the [Welcome blog post](https://drive.google.com/open?id=1tpkU2ST0TpEOKm-Q0aRvEuosWY1pjoFW&usp=drive_fs) (or in Posit 00-1_Welcome.html) and [Syllabus](https://docs.google.com/document/d/124UUTEYLpv6CpRJTJZuKQeoTkwRWVPHh4T2NATDDMuo/edit) or within Posit version (00-2_Syllabus.html)
 - Complete the [Week 0 concept check](https://canvas.vt.edu/courses/184696/quizzes/505988)
 

@@ -27,7 +27,7 @@ My family and I have been in Blacksburg since Fall 2018. My oldest daughter, May
 
 I've taught Bioprocess Engineering, Intro to BSE, and a new Engineering Biology course-based undergraduate research experience since coming to Virginia Tech. I'm excited to integrate some of the skills and examples from these higher and lower level classes into BSE3144. I am really excited to teach this course because, in my opinion, programming is one of the most valuable, widely translatable skills to have now and increasingly so in the future. I taught an R course for natural scientists while I was a post-doc at University of Washington. I also love R and the community builds and maintains R and R learning tools---I don't think I have ever had a negative experience asking a question to the community.
 
-Because of the strength of the R community, as well as the broad shift in our fields towards using R and Python, we moved this course to using R instead of MATLAB, back in 2020. Over the past three years, we've built this course using our own experiences as well as the many R learning tools available, leveraging material from many instructors across our department and others to help you be successful in our wide-ranging discipline as well as many others. I'm looking forward to adding more biotech examples this Spring.
+Because of the strength of the R community, as well as the broad shift in our fields towards using R and Python, we moved this course to using R instead of MATLAB, back in 2020. Over the past three years, we've built this course using our own experiences as well as the many R learning tools available, leveraging material from many instructors across our department and others to help you be successful in our wide-ranging discipline as well as many others. I'm looking forward to adding more biotech examples, AI integration, and Python this Spring.
 
 ### Course Goals
 
@@ -51,13 +51,16 @@ While traditional lecturing works for some topics, this course really requires a
 
 | Day                | Task                                                                                                          |
 |-----------------------------------|---------------------------------------------------------------------------------------------|
-| Day 0 (Friday):    | short video / reading material available to watch/read prior to Monday 11:15                                  |
-| Day 1 - 3:         | review out of class material & bring questions to class; and play                                             |
-| Day 3 (Monday):    | Submit pre-class assignment; Q/A on pre-class material; in-class short presentation; Exercise and code-alongs |
-| Day 4 (Tuesday):   | More in-class exercise and start assignment                                                                   |
-| Day 5 (Wednesday): | (some BSE team building); work on exercises and assignment; answer questions                                  |
-| Day 6 (Thursday):  | Finish exercise assignment, due at midnight 12AM                                                              |
-| Day 7 (Friday):    | Begin working on next weeks pre-class material                                                                |
+| Friday:    | short video / reading material available to watch/read prior to Monday 11:15                                  |
+| Saturday and Sunday:         | review out of class material & bring questions to class; and play                                             |
+| Monday:    | Submit pre-class assignment; Q/A on pre-class material; in-class short presentation; Exercise and code-alongs |
+| Tuesday:   | More in-class exercise and start assignment                                                                   |
+| Wednesday: | (some BSE team building); work on exercises and assignment; answer questions                                  |
+| Thursday:  | Finish exercise assignment, (these used to be due at midnight)                                                              |
+| Friday:    | Begin working on next weeks pre-class material                                                                |
+| Saturday:   | Submit last weeks assignment if you haven't already!                                                          |
+| Sunday:   | Finish up pre-class materials |
+| Monday:   | Submit Concept Check if you haven't already! |
 
 ### Learning
 
@@ -75,7 +78,9 @@ We expect you to have questions - and we'll be here to answer them. Ask question
 
 Course assessments throughout the semester include the following: Concept Checks = low-stake exercises (15%), Problem Sets (%), Project-based assessments (30%). Every week, the low stake exercises will be due Monday before class and Problem Set is due on Thursday at midnight. Note we have a lenient late policy; however, I highly suggest wrapping up on time which will set you up for the following week.
 
-### Accessibility & Inclusivity
+### Guidance on Managing Math and Programming Anxiety
+
+Many students experience anxiety when working with math or programming. In this course, we will focus on incremental learning through active practice, collaboration, and supportive feedback. Mistakes are a natural part of learning, especially in programming, and they provide valuable opportunities for growth. If you feel overwhelmed, please reach out for support. Remember, learning how to tackle challenges with confidence is an essential skill for engineers.
 
 This is a class that requires you to practice and experiment. Just like learning a foreign language, learning a programming language requires immersion. When you get stuck, ask for help - we want you to succeed. Computing can be hard, no doubt. I have certainly spent hours trying to make something work, only to give up and go for a walk, or take a shower, and have the solution pop into my head. But it's also rewarding, and we honestly believe all of you can do this with a little help. When you run into challenges, please reach out and we'll do our best to help you. If you're struggling with learning the content or not finding the course accessible and positive, reach out and I'll work to correct it. If there's something that I can do to make the course more inclusive, let me know. I am receptive to constructive feedback and will reach out for it throughout the course.
 
@@ -85,6 +90,6 @@ We will have regular office hours during the week based on survey results. We wi
 
 ### Course Management and Cloud Computing
 
-We'll use a combination of Canvas/Kritik (course management), Google drive (content), and an online version of R called Posit (cloud computing) throughout the course. We will use Posit cloud throughout the course this year. Posit is a cloud computing version of R/Rstudio that makes it easier for us to get everyone up and running. It also allows us to log in to your project for an assignment and help troubleshoot your issues.
+We'll use a combination of Canvas and Google drive (content), and an online version of R called Posit (cloud computing) throughout the course. We will use Posit cloud throughout the course this year. Posit is a cloud computing version of R/Rstudio that makes it easier for us to get everyone up and running. It also allows us to log in to your project for an assignment and help troubleshoot your issues.
 
-Sign up for a free Posit account **using your @vt.edu email** and join our class workspace here: <https://posit.cloud/spaces/466263/join?access_code=t7_EYM675vTBtBWbCJdZy-GzLB4j6tl9CFB6ibq->
+Sign up for a free Posit account **using your @vt.edu email** and join our class workspace here: <https://posit.cloud/spaces/600320/join?access_code=xGmfj32WVbKz3zFw7uJDU8jJDp1QsNbP5YDCdDKF>
